@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BrickBreakOut</string>
+    <string name="breakout">Break Out</string>
+    <string name="newgame">NEW GAME</string>
+    <string name="highscores">HIGH SCORES</string>
+    <string name="help">HELP</string>
+    <string name="quit">QUIT</string>
+    <string name="title_activity_enter_score">EnterScoreActivity</string>
+    <string name="dummy">DUMMY</string>
+    <string name="returnMain">Main Menu</string>
+    <string name="highScoreObjects">High Scores</string>
+    <string name="placeholder">placeHolder</string>
+    <string name="submit">Submit</string>
+    <string name="instructions">Instructions !!!</string>
+    <string name="enteranme">Enter your Name</string>
+    <string name="pause">pause</string>
+    <string name="play">play</string>
+    <string name="breakoutgame">Break Out Game !!!!</string>
+</resources>
